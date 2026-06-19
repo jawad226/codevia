@@ -1,0 +1,271 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "slug": "web-development",
+    "description": "Your website has to impress visitors within seconds.",
+    "heading": "● About me ●",
+    "about": "Impressive Website Development Services",
+    "details": "We build fast, scalable and visually appealing websites using modern technologies.",
+    "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763573144/vecteezy_online-education-png-with-ai-generated_27309246_gokd9a.png",
+    "sections": [
+      {
+        "type": "features",
+        "items": [
+          {
+            "title": "Quality website development",
+            "desc": "Our priority is to build such websites for you, which generate handsome revenue."
+          },
+          {
+            "title": "CMS based development",
+            "desc": "Keeping your needs in special concern, we make sure to use various CMS according to your needs"
+          },
+          {
+            "title": "SEO optimized website",
+            "desc": "SEO optimized website Get our web development services and become carefree to get your site among the top searches"
+          },
+          {
+            "title": "24/7 customer support",
+            "desc": "We are aimed to serve you to our fullest. We provide you with 24/7 support."
+          }
+        ]
+      },
+      {
+        "type": "featuresWithImage",
+        "title": "What do web design services offer?",
+        "items": [
+          {
+            "title": "Website page creation",
+            "desc": "With our web design services, you can rely on our designers to create each page."
+          },
+          {
+            "title": "Customized style",
+            "desc": "Your website must match your brand identity."
+          },
+          {
+            "title": "Responsive design",
+            "desc": "We ensure websites work perfectly on mobiles."
+          },
+          {
+            "title": "Ecommerce functionality",
+            "desc": "We help choose and build the best ecommerce features."
+          }
+        ],
+        "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764176137/vecteezy_ai-generated-young-man-studies-online-and-exploring_35895323_a7hbqi.png"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Software Development",
+    "slug": "software-development",
+    "heading": "● About Us ●",
+    "about": "Grow Your Business with Our Agency",
+    "description": "Build scalable and powerful software solutions.",
+    "details": "A company may require custom software to fill the gaps in existing IT solutions or to complete its critical functions. A company may require custom software to fill the gaps in existing IT solutions or to complete its critical functions. ",
+    "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763573357/vecteezy_dramatic-vintage-modern-workplace-productivity-desktop-setup_56596138_prq3x7.png",
+    "sections": [
+  {
+    "type": "Understanding",
+    "title": "We Understanding Your Business",
+    "description": "Build scalable and powerful software solutions.",
+    "items": [
+      {
+        "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764181650/Code_Icons_xqgtsm.svg",
+        "title": "Software Consulting Services",
+        "desc": "As a custom software company, we analyze your business needs, conceptualize software, and help you get the best value from its development."
+      },
+      {
+        "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764181650/Business_Icons_t8qccg.svg",
+        "title": "Custom Software Development Services",
+        "desc": "In today's highly volatile and competitive market landscape, custom software development helps you to achieve the desired business proficiency"
+      },
+      {
+        "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764181960/Company_Icons_pvsjgv.svg",
+        "title": "Enterprise Software Development Services",
+        "desc": "We help organizations become a lasting success by re-engineering enterprise software development solutions of different complexity levels. We support your business infrastructure with scalable software that improves key facets of your organization."
+      },
+      {
+        "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764181649/Product_development_Icons_m13eaq.svg",
+        "title": "Software Product Development Services",
+        "desc": "We are a full-cycle software product development company that helps your organization with end-to-end product development services."
+      },
+      {
+        "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764181649/Foundry_Icons_fgeder.svg",
+        "title": "Software Integration Services",
+        "desc": "Our custom software developers use the industry-best techniques to handle all your implementation and software integration challenges."
+      },
+      {
+        "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764181648/Api_Icons_xivymb.svg",
+        "title": "API Development Services",
+        "desc": "Our custom software developers offer robust API development and API integration services for your software applications."
+      }
+    ]
+  }
+]
+
+  },
+  {
+    "id": 3,
+    "title": "App Development",
+    "slug": "app-development",
+    "heading": "● We get results ●",
+    "about": "What is App Development?",
+    "description": "Your app must capture users’ attention immediately.",
+    "details": "We provide high-quality and intelligent app development services to businesses of all sizes. Here at Yellow Beam Tech, we have a team of skilled professionals dedicated to creating user-friendly, visually appealing and top-tier apps.",
+    "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763574245/vecteezy_data-visualization-a-modern-cityscape-of-insights_56088957_en1ntb.jpg",
+    "sections": [
+      {
+        "type": "features",
+        "title": "Technologies We Use",
+        "items": [
+          {
+            "title": "Flutter Apps",
+            "desc": "Cross-platform with great performance."
+          },
+          {
+            "title": "React Native",
+            "desc": "Fast development & native feel."
+          },
+          {
+            "title": "Custom Android",
+            "desc": "Native Java/Kotlin development."
+          },
+          {
+            "title": "Custom iOS",
+            "desc": "Swift / SwiftUI applications."
+          }
+        ]
+      },
+      {
+        "type": "imageRight",
+        "title": "Performance Optimized Apps",
+        "desc": "Your app will load fast, run smooth, and deliver excellent user experience.",
+        "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764173104/vecteezy_sleek-modern-smartphone-with-colorful-app-icons-displayed-on_60580861_xattix.png"
+      }
+    ]
+  },
+  {
+  "id": 4,
+  "title": "UI/UX Design",
+  "slug": "ui-ux-design",
+  "description": "We design meaningful digital experiences that users love.",
+  "heading": "Creative UI/UX Solutions",
+  "about": "We craft visually stunning and highly usable designs.",
+  "details": "Our UI/UX services focus on usability, accessibility, and perfect user experience that enhances engagement and conversions.",
+  "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763573971/vecteezy_green-screen-notch-display-smartphone-clip-art-illustration_9665479_stmwcf.png",
+
+  "sections": [
+    {
+      "type": "features",
+      "title": "Our Core UI/UX Capabilities",
+      "items": [
+        {
+          "title": "Wireframing",
+          "desc": "We create simplified structural layouts to visualize product screens."
+        },
+        {
+          "title": "User Research",
+          "desc": "We study real user behavior to design purposeful and efficient experiences."
+        },
+        {
+          "title": "Visual Design",
+          "desc": "Beautiful branding, typography, and design layouts for stunning appearance."
+        },
+        {
+          "title": "Prototyping",
+          "desc": "We develop interactive prototypes to test, validate and refine designs before development."
+        }
+      ]
+    },
+
+    {
+      "type": "featuresWithImage",
+      "title": "Why Your Business Needs UI/UX?",
+      "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764233680/vecteezy_illustration-mobile-wireframe-idea-with-minimalist-design_48695731_chwsdw.jpg",
+      "items": [
+        {
+          "title": "Better Conversions",
+          "desc": "Improved design helps users trust, engage, and take action."
+        },
+        {
+          "title": "Smooth User Journey",
+          "desc": "Easy navigation increases retention and satisfaction."
+        },
+        {
+          "title": "Brand Identity",
+          "desc": "Clean and modern designs reflect your business credibility."
+        },
+        {
+          "title": "Faster Product Development",
+          "desc": "Testing prototypes early helps avoid costly development mistakes."
+        }
+      ]
+    },
+
+    {
+      "type": "Understanding",
+      "title": "UI vs UX — What’s the Difference?",
+      "description": "UI is about how your product LOOKS, while UX is about how it FEELS and FUNCTIONS.",
+      "items": [
+        {
+          "title": "User Interface (UI)",
+          "desc": "Color schemes, typography, icons, spacing, visual hierarchy.",
+          "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764233976/User-interface-ui_interface_Icons_nreppl.svg"
+        },
+        {
+          "title": "User Experience (UX)",
+          "desc": "Research, structure, wireframes, testing, and user behavior patterns.",
+          "icon": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764233986/Ux_Icons_wziaps.svg"
+        }
+      ]
+    },
+
+    {
+      "type": "imageRight",
+      "title": "Our UI/UX Workflow",
+      "desc": "We follow industries best practices including user research, wireframing, prototyping, usability testing, and final design delivery.",
+      "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764244413/vecteezy_a-person-is-holding-a-document-and-a-gear-is-connected-to-it_65977587_rssr5n.png"
+    }
+  ]
+},
+  {
+    "id": 5,
+    "title": "Digital Marketing",
+    "slug": "digital-marketing",
+    "heading": "● We get results ●",
+    "about": "Digital Media Marketing & Management Services",
+    "description": "Boost your online presence and grow your business.",
+    "details": "With a custom social media marketing service plan, your business can start building brand awareness, as well as generating revenue from social media platforms like Facebook, Twitter, LinkedIn, Instagram, and more.",
+    "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763574345/vecteezy_social-media-icons_22694393_p9l89i.png",
+    "sections": [
+      {
+        "type": "features",
+        "items": [
+          {
+            "title": "SEO Optimization",
+            "desc": "Rank higher on Google organically."
+          },
+          {
+            "title": "Social Media Management",
+            "desc": "Grow Instagram, Facebook & TikTok."
+          },
+          {
+            "title": "Paid Advertising",
+            "desc": "Google & Meta ads for fast results."
+          },
+          {
+            "title": "Brand Awareness",
+            "desc": "Increase your online reputation."
+          }
+        ]
+      },
+      {
+        "type": "imageRight",
+        "title": "Grow Your Business Quickly",
+        "desc": "We help brands scale using ROI-focused marketing strategies.",
+        "img": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764172375/vecteezy_3d-character-person-doing-digital-marketing_11675470_yk2tfd.png"
+      }
+    ]
+  }
+]

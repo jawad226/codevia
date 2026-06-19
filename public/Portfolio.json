@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "title": "Delta Code Solution",
+    "short": "Full-stack marketplace with payments & admin panel",
+    "description": "Delta Code Solutions delivers innovative digital solutions that drive business growth, efficiency, and success.",
+    "fullDescription": "Delta Code Solutions is a leading software development company delivering scalable and reliable digital solutions. We focus on understanding clients’ unique needs and provide technology-driven strategies for growth. Our skilled team ensures high-quality delivery across web, mobile, and enterprise platforms.",
+    "technologies": [
+      "React",
+      "Lottie-React",
+      "React Router DOM",
+      "React Hook Form",
+      "React Icons",
+      "React Simple Typewriter",
+      "React Tooltip",
+      "Sweetalert2",
+      "Swiper",
+      "Tailwind CSS",
+      "DaisyUI",
+      "React Helmet"
+    ],
+    "tags": ["Web Development"],
+    "images": [
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1760193748/WhatsApp_Image_2025-10-11_at_19.35.25_e8c4d340_ezjjrv.jpg",
+      "/assets/Images/portfolio/proj2.jpg"
+    ],
+    "liveUrl": "https://deltacodesolution.netlify.app/",
+    "githubUrl": "https://github.com/jawad226/Deltacodesolutions"
+  },
+  {
+    "id": 2,
+    "title": "Bone Fracture Detection System",
+    "short": "Deep Learning Model for Bone Fracture Detection",
+    "description": "Frontend React JS + Deep Learning backend model to detect bone fractures.",
+    "fullDescription": "AI-powered medical imaging system using deep learning to detect bone fractures from X-ray images. Employs convolutional neural networks (CNNs) trained on thousands of images with high accuracy, featuring a user-friendly interface for medical professionals.",
+    "technologies": [
+      "Python",
+      "TensorFlow",
+      "React",
+      "FastAPI",
+      "OpenCV"
+    ],
+    "tags": ["Software Development", "ML"],
+    "images": [
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764168724/WhatsApp_Image_2025-11-26_at_19.51.39_4fe55767_nfpg26.jpg",
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764168797/WhatsApp_Image_2025-11-26_at_19.52.59_08ed896a_dsaqew.jpg"
+    ],
+    "liveUrl": "https://bonefracturefyp.netlify.app/",
+    "githubUrl": "https://bonefracturefyp.netlify.app/"
+  },
+  {
+    "id": 3,
+    "title": "Portfolio Website",
+    "short": "Interactive personal portfolio",
+    "description": "Modern personal portfolio to showcase projects, skills, and experience.",
+    "fullDescription": "This portfolio highlights professional work as a full-stack developer. Features include a clean UI, dynamic project listings, smooth animations with Framer Motion, fully responsive design, and performance optimization using Next.js and Tailwind CSS.",
+    "technologies": [
+      "Next.js 14",
+      "React.js",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Lucide React Icons",
+      "TypeScript",
+      "Vercel"
+    ],
+    "tags": ["Web Development"],
+    "images": [
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1762358132/WhatsApp_Image_2025-11-05_at_20.55.04_158e8b41_u6yyte.jpg"
+    ],
+    "liveUrl": "https://jawadj.vercel.app/",
+    "githubUrl": "https://github.com/jawad226/my-portfolio"
+  },
+  {
+    "id": 4,
+    "title": "EduManage",
+    "short": "Student Management System",
+    "description": "Simplify academic administration and performance tracking.",
+    "fullDescription": "EduManage is a student management system to streamline administration. Allows managing student records, attendance, and marks. Built with React frontend and NestJS + MySQL backend, it provides fast, secure, and scalable operations with a clean and responsive UI.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "Bootstrap 5",
+      "React.js",
+      "NestJS",
+      "MySQL",
+      "TypeORM",
+      "RESTful APIs"
+    ],
+    "tags": ["Full Stack Development"],
+    "images": [
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1760271818/WhatsApp_Image_2025-10-12_at_17.23.00_8211beaf_re9m3d.jpg",
+      "/assets/Images/portfolio/app2.jpg"
+    ],
+    "liveUrl": "https://github.com/jawad226/EduManage",
+    "githubUrl": "https://github.com/jawad226/EduManage"
+  },
+  {
+    "id": 5,
+    "title": "Health Metrics Pro",
+    "short": "Health & wellness web app",
+    "description": "Track BMI, ideal weight, and fitness progress.",
+    "fullDescription": "Health Metrics Pro is a professional web app for health and wellness tracking. Users can calculate BMI, estimate ideal weight, and get instant health insights. Features a responsive design for smooth user experience on all devices.",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6)",
+      "Responsive Design",
+      "Font Awesome Icons",
+      "Netlify"
+    ],
+    "tags": ["UX/UI Design"],
+    "images": [
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1760266515/WhatsApp_Image_2025-10-12_at_15.52.18_e1ff033f_rwwszb.jpg",
+      "/assets/Images/portfolio/design2.jpg"
+    ],
+    "liveUrl": "https://health-metrics-pro.netlify.app/",
+    "githubUrl": "https://github.com/jawad226/Health-Metrics-Pro"
+  },
+  {
+    "id": 6,
+    "title": "Digital Marketing Campaign",
+    "short": "SEO & Social Media Marketing",
+    "description": "Comprehensive digital marketing strategy and execution.",
+    "fullDescription": "End-to-end digital marketing campaigns including SEO, social media marketing, content strategy, and analytics. Achieved significant growth in traffic and conversions through data-driven strategies.",
+    "technologies": [
+      "SEO",
+      "Google Analytics",
+      "Social Media",
+      "Content Marketing"
+    ],
+    "tags": ["Digital Marketing"],
+    "images": [
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1764168950/a-beginners-guide-to-digital-marketing-and-the-life-cycle-of-your-campaign_piem5p.webp"
+    ],
+    "liveUrl": "https://client-business.com",
+    "githubUrl": null
+  },
+  {
+    "id": 7,
+    "title": "WearHub",
+    "short": "AI-powered fashion e-commerce platform",
+    "description": "Discover outfits tailored to user preferences.",
+    "fullDescription": "WearHub is an AI-based e-commerce platform providing personalized clothing recommendations. Users input height, weight, skin tone, and gender to receive AI-generated outfit suggestions. Built with Next.js, MongoDB, and TailwindCSS for a modern and responsive shopping experience.",
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Stripe",
+      "JWT"
+    ],
+    "tags": ["E-commerce"],
+    "images": [
+      "https://res.cloudinary.com/dcfzqdk58/image/upload/v1760272750/WhatsApp_Image_2025-10-12_at_17.37.04_066968c6_ijxybg.jpg"
+    ],
+    "liveUrl": "https://warehubshop.netlify.app/",
+    "githubUrl": "https://github.com/jawad226/wearhub"
+  }
+]

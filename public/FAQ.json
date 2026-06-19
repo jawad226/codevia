@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "question": "What types of websites do you build under Web Development?",
+    "answer": "We specialize in creating responsive, modern, and SEO-friendly websites including business websites, e-commerce stores, WordPress sites, and custom web applications tailored to your needs."
+  },
+  {
+    "id": 2,
+    "question": "How do you approach Software Development projects?",
+    "answer": "Our software development team follows a structured approach, from requirement analysis and design to development and deployment. We build custom solutions including automation tools, AI/ML applications, and desktop or cloud-based software."
+  },
+  {
+    "id": 3,
+    "question": "Can you design mobile apps and UX/UI experiences for my project?",
+    "answer": "Yes! We provide full app development services for iOS and Android, along with professional UX/UI design to ensure user-friendly and visually appealing interfaces. We also offer digital marketing strategies to boost your product's reach."
+  }
+]

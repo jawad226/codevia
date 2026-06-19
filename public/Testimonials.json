@@ -1,0 +1,34 @@
+[
+    {
+        "key": 1,
+        "content": "Learning at Codevia completely changed my perspective on programming",
+        "detail": "Jawad learned React, Next.js, and Python, and completed multiple projects successfully.",
+        "author": "Jawad Jameel",
+        "position": "Student, BS Software Engineering",
+        "image": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763648016/Gemini_Generated_Image_gy2wkhgy2wkhgy2w_vas7nc.png"
+    },
+    {
+        "key": 2,
+        "content": "Thanks to Codevia, I built my first full-stack project using React and Python. The guidance and support were exceptional!",
+        "detail": "Fiaz focused on backend development and API integrations, improving his coding skills rapidly.",
+        "author": "Fiaz Hussain",
+        "position": "Student, BS Computer Science",
+        "image": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763648429/profile2-yi2fRzBj_uie2cd.jpg"
+    },
+    {
+        "key": 3,
+        "content": "I joined Codevia to learn AI and ended up developing my own mini machine learning model. The experience was amazing!",
+        "detail": "Faisal applied AI concepts to a real project, gaining hands-on experience in ML and data science.",
+        "author": "Faisal Ameen",
+        "position": "Student, BS Data Science",
+        "image": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763648207/WhatsApp_Image_2025-11-20_at_19.12.25_6bacd8f8_hp4huk.jpg"
+    },
+    {
+        "key": 4,
+        "content": "I joined Codevia to learn AI and ended up developing my own mini machine learning model. The experience was amazing!",
+        "detail": "Usman Zahoor applied AI concepts to a real project, gaining hands-on experience in ML and data science.",
+        "author": "Hafiz Muhammad Usman Zahoor ",
+        "position": "Student, BS Artificial Intelligence",
+        "image": "https://res.cloudinary.com/dcfzqdk58/image/upload/v1763648516/WhatsApp_Image_2025-11-20_at_19.09.30_008abfcd_issfid.jpg"
+    }
+]
